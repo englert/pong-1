@@ -1,6 +1,6 @@
 import turtle
 w = turtle.Screen()
-bü = turtle.Turtle()
+b = turtle.Turtle()
 
 # bal ütő
 b.shape("square")
